@@ -1,0 +1,18 @@
+streamlit==1.38.0
+xgboost==2.1.1
+shap==0.46.0
+pandas==2.2.2
+scikit-learn==1.5.2
+imbalanced-learn==0.12.3
+joblib==1.4.2
+numpy==1.26.4
+
+print("🎉 **DEPLOYMENT READY!**")
+print("\n📁 **Download these 5 files from Files tab:**")
+print("1. app.py")
+print("2. requirements.txt") 
+print("3. model.pkl")
+print("4. explainer.pkl")
+print("5. features.pkl")
+print("\n🌐 **Deploy:** GitHub repo → Streamlit Cloud → Connect → Deploy")
+print("\n🔥 **DEMO:** Type 'chest pain மார்பு வலி' → Predict → WIN!")
